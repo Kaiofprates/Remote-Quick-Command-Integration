@@ -23,6 +23,7 @@ O cliente permite a criação de execuções e a verificação do status das exe
 - Bibliotecas:
   - `requests`
   - `python-dotenv`
+  - `streamlit`
 
 ## Instalação
 
@@ -54,5 +55,5 @@ O cliente permite a criação de execuções e a verificação do status das exe
 
 Execute o script de exemplo:
 ```sh
-python main.py
+streamlit run app.py
 ```
